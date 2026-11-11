@@ -17,7 +17,7 @@ I am passionate about cybersecurity, ethical hacking, security operations, and d
 
 ## 🧰 Tools & Technologies
 
-**Programming:** Python, Java, JavaScript
+**Programming:** Python
 
 **Operating Systems:** Kali Linux, Ubuntu, Windows
 
@@ -51,7 +51,7 @@ To build a career in cybersecurity by developing practical skills in offensive s
 ## 🤝 Connect With Me
 
 - GitHub: [SaiSrinadh0549](https://github.com/SaiSrinadh0549)
-- LinkedIn: Add your LinkedIn profile URL here.
+- LinkedIn:https://github.com/SaiSrinadh0549.
 
 ---
 
